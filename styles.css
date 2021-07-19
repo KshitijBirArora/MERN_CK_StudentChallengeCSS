@@ -1,0 +1,38 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #f9f3f3;
+}
+/* header section */
+.Header {
+  background-image: url("bg.jpg");
+  background-size: cover;
+  width: 90%;
+  margin: 50px auto;
+  border-radius: 20px;
+}
+.title {
+  padding: 200px 50px;
+  font-size: 20px;
+  color: #eeeded;
+}
+.link {
+  color: #eeeded;
+  text-decoration: none;
+  text-transform: capitalize;
+  border: 2px solid white;
+  padding: 5px;
+}
+.link:hover {
+  color: #022e57;
+}
+/* main section */
+.main {
+  margin: 50px 40px 0px 80px;
+}
+h4 {
+  font-weight: lighter;
+  width: fit-content;
+  background-color: aquamarine;
+  border-radius: 20px;
+  padding: 5px 20px;
+}
